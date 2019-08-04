@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the margins that will be used to display the News article -->
+    <dimen name="cardview_margin">8dp</dimen>
+
+    <!-- This is the corner radius that will show the News article -->
+    <dimen name="cardview_corner_radius">4dp</dimen>
+
+    <!-- The elevation of the CardView that will show the News article -->
+    <dimen name="cardview_elevation">4dp</dimen>
+
+    <!-- The padding that will surround the section of information associated with the article -->
+    <dimen name="data_block_padding">8dp</dimen>
+
+    <!-- The left margin that is appointed to the name of the News article -->
+    <dimen name="article_left_margin">8dp</dimen>
+</resources>

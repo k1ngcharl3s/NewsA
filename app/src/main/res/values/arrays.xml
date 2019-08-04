@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definte the array of string that will represent the labels for the 'filter by' choices -->
+    <string-array name="settings_filter_by_labels">
+        <item>@string/settings_filter_by_all_label</item>
+        <item>@string/settings_filter_by_art_label</item>
+        <item>@string/settings_filter_by_business_label</item>
+        <item>@string/settings_filter_by_science_label</item>
+        <item>@string/settings_filter_by_society_label</item>
+        <item>@string/settings_filter_by_sports_label</item>
+        <item>@string/settings_filter_by_technology_label</item>
+        <item>@string/settings_filter_by_uk_label</item>
+        <item>@string/settings_filter_by_us_label</item>
+        <item>@string/settings_filter_by_world_label</item>
+    </string-array>
+
+    <!-- Definte the array of strings that represent the values of the 'filter by' options -->
+    <string-array name="settings_filter_by_values">
+        <item>@string/settings_filter_by_all_value</item>
+        <item>@string/settings_filter_by_art_value</item>
+        <item>@string/settings_filter_by_business_value</item>
+        <item>@string/settings_filter_by_science_value</item>
+        <item>@string/settings_filter_by_society_value</item>
+        <item>@string/settings_filter_by_sport_value</item>
+        <item>@string/settings_filter_by_technology_value</item>
+        <item>@string/settings_filter_by_uk_value</item>
+        <item>@string/settings_filter_by_us_value</item>
+        <item>@string/settings_filter_by_world_value</item>
+    </string-array>
+
+    <!-- Define the array of strings that represent labels for the 'order by" choices -->
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_arrange_by_newest_label</item>
+        <item>@string/settings_arrange_by_oldest_label</item>
+    </string-array>
+
+    <!-- Define the array of strings that represent  the values for the 'order by' choices -->
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_arrange_by_newest_value</item>
+        <item>@string/settings_arrange_by_oldest_value</item>
+    </string-array>
+
+</resources>

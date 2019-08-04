@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- The general content description associated with the thumbnail in the News Article -->
+    <string name="news_thumbnail">News Thumbnail</string>
+
+    <!-- The text that will be shown when their are no available news article-->
+    <string name="no_news">No news article available.</string>
+
+    <!-- The message when there is no internet connection -->
+    <string name="no_internet_connection">Check Internet connection.</string>
+
+    <!--Components required to create the Guardian search -->
+    <string name="transfer_protocol">https</string>
+    <string name="transfer_authority">content.guardianapis.com</string>
+    <string name="transfer_path">search</string>
+    <string name="query_tag">q</string>
+    <string name="query_param">news</string>
+    <string name="query_tag_from_date">from-date</string>
+    <string name="query_value_from_date">2018-01-01</string>
+    <string name="query_tag_section">section</string>
+    <string name="query_tag_show_tag">show-tags</string>
+    <string name="query_value_show_tag">contributor</string>
+    <string name="query_tag_show_fields">show-fields</string>
+    <string name="query_value_show_fields">thumbnail</string>
+    <string name="query_tag_arrange_by">arrange-by</string>
+    <string name="query_value_arrange_by">recent</string>
+    <string name="query_tag_api_key">api-key</string>
+    <string name="query_value_api_key">25e0aceb-363b-4118-8db6-bdbfe58e70de</string>
+
+    <!-- Settings Menu Item -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings Activity Title -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings for the Filter-By-Preference -->
+    <string name="settings_filter_by_label">Label</string>
+    <string name="settings_filter_by_key">Key</string>
+    <string name="settings_filter_by_default">Default</string>
+
+    <!-- Label for filtering by option -->
+    <string name="settings_filter_by_all_label">All</string>
+    <string name="settings_filter_by_art_label">Art</string>
+    <string name="settings_filter_by_business_label">Business</string>
+    <string name="settings_filter_by_science_label">Science</string>
+    <string name="settings_filter_by_society_label">Society</string>
+    <string name="settings_filter_by_sports_label">Sports</string>
+    <string name="settings_filter_by_technology_label">Technology</string>
+    <string name="settings_filter_by_uk_label">UK</string>
+    <string name="settings_filter_by_us_label">US</string>
+    <string name="settings_filter_by_world_label">World</string>
+
+    <!-- Value for filtering by option -->
+    <string name="settings_filter_by_all_value">All</string>
+    <string name="settings_filter_by_art_value">Art</string>
+    <string name="settings_filter_by_business_value">Business</string>
+    <string name="settings_filter_by_science_value">Science</string>
+    <string name="settings_filter_by_society_value">Society</string>
+    <string name="settings_filter_by_sport_value">Sport</string>
+    <string name="settings_filter_by_technology_value">Technology</string>
+    <string name="settings_filter_by_uk_value">UK</string>
+    <string name="settings_filter_by_us_value">US</string>
+    <string name="settings_filter_by_world_value">World</string>
+
+    <!-- Strings For The Order-By Preference -->
+    <string name="settings_arrange_by_label">Label</string>
+    <string name="settings_arrange_by_key">Key</string>
+    <string name="settings_arrange_by_default">Default</string>
+
+    <!-- Label for ordering by option -->
+    <string name="settings_arrange_by_newest_label">Newest</string>
+    <string name="settings_arrange_by_oldest_label">Oldest</string>
+
+    <!-- Value for arranging by option -->
+    <string name="settings_arrange_by_newest_value">Newest</string>
+    <string name="settings_arrange_by_oldest_value">Oldest</string>
+
+</resources>
